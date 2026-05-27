@@ -1,6 +1,6 @@
 # Dual-Track MPC Planner
 
-Robust dual-track MPC trajectory planner with obstacle avoidance and path tracking based on a 2-DOF vehicle model and quadratic programming (OSQP).
+Dual-track MPC trajectory planner with obstacle avoidance and path tracking based on a 2-DOF vehicle model and quadratic programming (OSQP).
 
 ## Features
 
